@@ -1,36 +1,28 @@
-# 🤖 Agentic Prompts
+# Agentic Prompts
 
-A growing collection of AI prompts I use and share with my audience — copy-paste ready, built for real results.
+A growing library of free, copy-paste AI prompts by [@agenticmatt](https://www.instagram.com/agenticmatt).
 
-> Each prompt is written to work in any major AI tool (ChatGPT, Claude, Gemini). Many shine brightest in **deep research** or **extended thinking** mode.
+Each prompt lives as its own file in [`prompts/`](./prompts). Open one, copy it, swap the `[BRACKETS]` for your details, and run it — ideally in your AI tool's deepest research mode (ChatGPT or Gemini "Deep Research," or Claude's extended thinking).
 
----
-
-## 📚 The prompts
+## Prompts
 
 | Prompt | What it does |
 | --- | --- |
-| [Find Your Users](prompts/find-your-users.md) | Find the exact Reddit threads, forums, Facebook groups, and X posts where your target users are already discussing the problem you solve — ranked and ready to act on. |
+| [Find your users](./prompts/find-your-users.md) | Finds the Reddit threads, forums, Facebook groups, and X/Twitter posts where your target users are discussing the problem your product solves — ranked, with how to engage. |
 
-*More prompts coming soon.*
+## How to use
 
----
+1. Click a prompt above and copy it (tap the copy button on the code block).
+2. Replace the `[BRACKETS]` with your product details.
+3. Run it in deep / extended research mode.
+4. Act on the output — and always contribute genuinely before mentioning your product.
 
-## 🚀 How to use
+## Adding a new prompt
 
-1. Open the prompt you want from the table above.
-2. Copy the prompt text.
-3. Swap in your own details where the prompt uses `[BRACKETS]`.
-4. Paste it into your AI tool — turn on deep research / extended thinking when the prompt suggests it.
-
----
-
-## 🙌 Stay in the loop
-
-New prompts are added regularly. Follow along for more:
-
-**[@agenticmatt on Instagram](https://www.instagram.com/agenticmatt)**
+1. Add a new `.md` file under [`prompts/`](./prompts) (lowercase-with-hyphens, e.g. `cold-dm-writer.md`).
+2. Add a row to the table above linking to it.
+3. Commit to `main`.
 
 ---
 
-*Free to use and share. If a prompt helps you, a tag or shout-out is always appreciated.* ✨
+More prompts coming. Follow [@agenticmatt](https://www.instagram.com/agenticmatt) for new drops.
