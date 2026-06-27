@@ -8,6 +8,20 @@ Turn your raw Xcode simulator screenshots and your logo into a converting App St
 
 ---
 
+## See it in action
+
+Two real frames from **OpenAd** (a free screen-time app), each built with this exact process — left is the rough first idea, right is the finished App Store frame.
+
+**Hero frame**
+
+![OpenAd hero frame — before and after](../examples/hero-before-after.png)
+
+**Feature frame** (note the real, crisp screenshot composited into the device on the right)
+
+![OpenAd dashboard frame — before and after](../examples/dashboard-before-after.png)
+
+---
+
 ## What to attach (do this first)
 
 Do everything in **one fresh ChatGPT conversation** (a model with image generation) and keep it in that one thread start to finish — that's how ChatGPT remembers your approved hero and matches the rest to it. Before you paste anything, get your inputs ready:

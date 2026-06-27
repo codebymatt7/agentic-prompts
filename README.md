@@ -12,6 +12,14 @@ Each prompt lives as its own file in [`prompts/`](./prompts). Open one, copy it,
 | [AI SEO](./prompts/ai-seo.md) | A 3-step process to find out why AI bots aren't recommending your app, and the exact actions to get it surfaced when people ask ChatGPT, Claude, Grok, or Perplexity for "the best app for ___". |
 | [App Store screenshots](./prompts/app-store-mockups.md) | Turn your raw Xcode screenshots and logo into a polished, on-brand App Store screenshot set with ChatGPT — a hero frame plus feature frames, with the exact Apple sizes and a Canva finishing step. |
 
+### Before / after — [App Store screenshots](./prompts/app-store-mockups.md)
+
+Real frames from **OpenAd** (a free screen-time app), made with the [App Store screenshots](./prompts/app-store-mockups.md) prompt:
+
+![OpenAd hero frame — before and after](./examples/hero-before-after.png)
+
+![OpenAd dashboard frame — before and after](./examples/dashboard-before-after.png)
+
 ## How to use
 
 1. Click a prompt above and copy it (tap the copy button on the code block).
