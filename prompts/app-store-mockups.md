@@ -18,7 +18,7 @@ Two real frames from **OpenAd** (a free screen-time app), each built with this e
 
 **Feature frame** (note the real, crisp screenshot composited into the device on the right)
 
-![OpenAd dashboard frame — before and after](../examples/dashboard-before-after.png)
+![OpenAd dashboard frame — before and after](../examples/feature-frame-before-after.png)
 
 ---
 
