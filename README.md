@@ -10,6 +10,7 @@ Each prompt lives as its own file in [`prompts/`](./prompts). Open one, copy it,
 | --- | --- |
 | [Find your users](./prompts/find-your-users.md) | Finds the Reddit threads, forums, Facebook groups, and X/Twitter posts where your target users are discussing the problem your product solves — ranked, with how to engage. |
 | [AI SEO](./prompts/ai-seo.md) | A 3-step process to find out why AI bots aren't recommending your app, and the exact actions to get it surfaced when people ask ChatGPT, Claude, Grok, or Perplexity for "the best app for ___". |
+| [App Store screenshots](./prompts/app-store-mockups.md) | Turn your raw Xcode screenshots and logo into a polished, on-brand App Store screenshot set with ChatGPT — a hero frame plus feature frames, with the exact Apple sizes and a Canva finishing step. |
 
 ## How to use
 
