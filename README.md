@@ -18,7 +18,7 @@ Real frames from **OpenAd** (a free screen-time app), made with the [App Store s
 
 ![OpenAd hero frame — before and after](./examples/hero-before-after.png)
 
-![OpenAd dashboard frame — before and after](./examples/dashboard-before-after.png)
+![OpenAd dashboard frame — before and after](./examples/feature-frame-before-after.png)
 
 ## How to use
 
